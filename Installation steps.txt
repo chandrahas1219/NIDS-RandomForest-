@@ -1,0 +1,26 @@
+Installation steps:
+   
+    Step 1:Open Google Colab website and open new notebook 
+
+    Step 2:installing libraries in to python code
+               1.numpy
+               2.pandas
+               3.matpotlib
+               4.seaborn
+               5.sklearn.metrics( to import RandomForestClassifier)
+               6.sklearn.ensemble(to import accuracy_score, classification_report,ConfusionMatrixDisplay etc)
+    
+    Step 3:Then we read the Train and Test data files 
+     
+    Step 4:Then use feature selection for for selecting the best features to classify data 
+    
+    Step 5:We split the data into train and test data files
+    
+    step 6:We train the random forest algorithm on train dataset
+    
+    step 7:Then evaluate the model on test data set using performance metrics accuracy,precision,recall etc. 
+      
+
+          
+          
+          
